@@ -5,7 +5,7 @@ This app tracks tracks user answers over time, revisiting words they answer inco
 Words that users get right are revisited less and less frequently as users master them. 
 
 - [Live URL](https://dustin-spaced-repetition-client-master.vercel.app/register)
-- [Client repo]
+- [Client repo](https://github.com/Dustin1386/spaced-rep-client)
 - [Server repo]
  
 
