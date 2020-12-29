@@ -4,7 +4,7 @@ The spaced repetition technique lets users focus on the words that give them the
 This app tracks tracks user answers over time, revisiting words they answer incorrectly. 
 Words that users get right are revisited less and less frequently as users master them. 
 
-- [Live URL]
+- [Live URL](https://dustin-spaced-repetition-client-master.vercel.app/register)
 - [Client repo]
 - [Server repo]
  
