@@ -6,7 +6,7 @@ Words that users get right are revisited less and less frequently as users maste
 
 - [Live URL](https://dustin-spaced-repetition-client-master.vercel.app/register)
 - [Client repo](https://github.com/Dustin1386/spaced-rep-client)
-- [Server repo]
+- [Server repo](https://github.com/Dustin1386/spacedrep-api)
  
 
 #### Stack
