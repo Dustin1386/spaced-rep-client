@@ -4,9 +4,9 @@ The spaced repetition technique lets users focus on the words that give them the
 This app tracks tracks user answers over time, revisiting words they answer incorrectly. 
 Words that users get right are revisited less and less frequently as users master them. 
 
-- [Live URL](https://spaced-repetition.now.sh)
-- [Client repo](https://github.com/thinkful-ei-armadillo/Andre-David-spaced-repetition-client)
-- [Server repo](https://github.com/thinkful-ei-armadillo/Andre-David-spaced-repetition-api)
+- [Live URL]
+- [Client repo]
+- [Server repo]
  
 
 #### Stack
